@@ -1,2 +1,4 @@
-# invie-github
-Trabajando en curso de platzi de git @Eureka ! Technology
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
