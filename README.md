@@ -1,2 +1,2 @@
 # invie-github
-Trabajando en curso de platzi de git 
+Trabajando en curso de platzi de git @Eureka ! Technology
