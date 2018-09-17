@@ -1,6 +1,6 @@
-🤖💻Eureka! Technology
+# 🤖💻Eureka! Technology
 
-# invie
+## invie
 Las guitarras más locas, curso platzi git y github
 
 https://jeisonsrz.github.io/invie-github/
